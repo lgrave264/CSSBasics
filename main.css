@@ -1,0 +1,14 @@
+body{
+    color: darkgoldenrod;
+    background-color: tan;
+    text-shadow: 1px 1px rgb(125, 106, 81);
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#middle{
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
